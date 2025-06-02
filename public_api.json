@@ -1,42 +1,37 @@
 [
   {
-    "title": "Dev Grade",
-    "description": "DevGrade is a tool to assess your developer profile based on your GitHub activity. It provides a grade reflecting your skills and potential, along with embeddable badges for HTML and React websites to showcase your verified DevGrade.",
+    "title": "DevGrade: GitHub Profile Assessment Tool",
+    "description": "DevGrade leverages GitHub activity to provide a comprehensive developer profile assessment. Generates a skill and potential grade, and offers embeddable badges (HTML/React) for showcasing verified credentials.",
     "tech": ["Next.js", "MongoDB", "Custom Auth"],
     "link": "https://devgrade.vercel.app",
-    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
-    "type": "Fullstack"
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png"
   },
   {
-    "title": "Reserve",
-    "description": "A full-stack productivity app built with Next.js 15. Helps users stay consistent with clean UI, fast performance, and simple scheduling features.",
+    "title": "Reserve: Next.js Productivity Application",
+    "description": "A full-stack productivity application engineered with Next.js 15. Features a clean UI, optimized performance, and intuitive scheduling functionalities to enhance user consistency.",
     "tech": ["Next.js", "Prisma", "Next Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Resserve.png",
-    "link": "https://resserve.vercel.app",
-    "type": "Fullstack"
+    "link": "https://resserve.vercel.app"
   },
   {
-    "title": "Decision Dex",
-    "description": "A decision-making tool where users can set priorities, add options, and analyze choices with visual stats. Clarity meets action.",
+    "title": "DecisionDex: Visual Decision Analysis Platform",
+    "description": "A decision-making platform enabling users to define priorities, enumerate options, and analyze choices through visual statistical representations. Empowers clarity for effective action.",
     "tech": ["Next.js", "Prisma", "Next Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/DecisionDex2.png",
-    "link": "https://decisiondex.vercel.app",
-    "type": "Fullstack"
+    "link": "https://decisiondex.vercel.app"
   },
   {
-    "title": "Streaksvr",
-    "description": "Track and build personal streaks with self-assigned tasks. Great for habit-building and self-challenges.",
+    "title": "Streaksvr: Personal Streak Tracking Application",
+    "description": "An application designed for tracking and building personal streaks based on self-assigned tasks. Facilitates habit formation and personal challenge management.",
     "tech": ["Next.js", "Prisma", "Clerk"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Streaksvr.png",
-    "link": "https://streaksvr.vercel.app",
-    "type": "Fullstack"
+    "link": "https://streaksvr.vercel.app"
   },
   {
-    "title": "Socially",
-    "description": "A full-stack social media app with explore feed, followers suggestions, likes, posts, and more.",
+    "title": "Socially: Full-Stack Social Media Application",
+    "description": "A comprehensive full-stack social media application featuring an explore feed, follower suggestions, liking and posting capabilities, and more social interactions.",
     "tech": ["Next.js", "Prisma", "Clerk"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
-    "link": "https://socially-hems.vercel.app",
-    "type": "Fullstack"
-  },
+    "link": "https://socially-hems.vercel.app"
+  }
 ]
