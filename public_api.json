@@ -1,35 +1,35 @@
 [
   {
-    "title": "DevGrade: GitHub Profile Assessment Tool",
-    "description": "DevGrade leverages GitHub activity to provide a comprehensive developer profile assessment. Generates a skill and potential grade, and offers embeddable badges (HTML/React) for showcasing verified credentials.",
+    "title": "GitHub Profile Assessment",
+    "description": "Leverages GitHub activity for developer profile assessment, generating a skill grade and embeddable badges.",
     "tech": ["Next.js", "MongoDB", "Custom Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
     "link": "https://devgrade.vercel.app"
   },
   {
-    "title": "Reserve: Next.js Productivity Application",
-    "description": "A full-stack productivity application engineered with Next.js 15. Features a clean UI, optimized performance, and intuitive scheduling functionalities to enhance user consistency.",
+    "title": "Productivity Application",
+    "description": "Productivity app with clean UI, fast performance, and simple scheduling features for user consistency.",
     "tech": ["Next.js", "Prisma", "Next Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Resserve.png",
     "link": "https://resserve.vercel.app"
   },
   {
-    "title": "DecisionDex: Visual Decision Analysis Platform",
-    "description": "A decision-making platform enabling users to define priorities, enumerate options, and analyze choices through visual statistical representations. Empowers clarity for effective action.",
+    "title": "Visual Decision Tool",
+    "description": "Tool to set priorities, add options, and analyze choices with visual statistics for clearer decisions.",
     "tech": ["Next.js", "Prisma", "Next Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/DecisionDex2.png",
     "link": "https://decisiondex.vercel.app"
   },
   {
-    "title": "Streaksvr: Personal Streak Tracking Application",
-    "description": "An application designed for tracking and building personal streaks based on self-assigned tasks. Facilitates habit formation and personal challenge management.",
+    "title": "Streak Tracking",
+    "description": "Application to track self-assigned tasks and build personal streaks for habit building and self-challenges.",
     "tech": ["Next.js", "Prisma", "Clerk"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Streaksvr.png",
     "link": "https://streaksvr.vercel.app"
   },
   {
-    "title": "Socially: Full-Stack Social Media Application",
-    "description": "A comprehensive full-stack social media application featuring an explore feed, follower suggestions, liking and posting capabilities, and more social interactions.",
+    "title": "Social Media App",
+    "description": "Social media app with explore feed, follower suggestions, likes, posts, and more interactions.",
     "tech": ["Next.js", "Prisma", "Clerk"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
     "link": "https://socially-hems.vercel.app"
