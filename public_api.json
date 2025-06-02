@@ -3,8 +3,8 @@
     "title": "DevGrade: GitHub Profile Assessment Tool",
     "description": "DevGrade leverages GitHub activity to provide a comprehensive developer profile assessment. Generates a skill and potential grade, and offers embeddable badges (HTML/React) for showcasing verified credentials.",
     "tech": ["Next.js", "MongoDB", "Custom Auth"],
-    "link": "https://devgrade.vercel.app",
-    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png"
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
+    "link": "https://devgrade.vercel.app"
   },
   {
     "title": "Reserve: Next.js Productivity Application",
