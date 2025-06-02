@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Dev Grade",
+    "description": "DevGrade is a tool to assess your developer profile based on your GitHub activity. It provides a grade reflecting your skills and potential, along with embeddable badges for HTML and React websites to showcase your verified DevGrade.",
+    "tech": ["Next.js", "MongoDB", "Custom Auth"],
+    "link": "https://devgrade.vercel.app",
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Reserve",
+    "description": "A full-stack productivity app built with Next.js 15. Helps users stay consistent with clean UI, fast performance, and simple scheduling features.",
+    "tech": ["Next.js", "Prisma", "Next Auth"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Resserve.png",
+    "link": "https://resserve.vercel.app",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Decision Dex",
+    "description": "A decision-making tool where users can set priorities, add options, and analyze choices with visual stats. Clarity meets action.",
+    "tech": ["Next.js", "Prisma", "Next Auth"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/DecisionDex2.png",
+    "link": "https://decisiondex.vercel.app",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Streaksvr",
+    "description": "Track and build personal streaks with self-assigned tasks. Great for habit-building and self-challenges.",
+    "tech": ["Next.js", "Prisma", "Clerk"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Streaksvr.png",
+    "link": "https://streaksvr.vercel.app",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Socially",
+    "description": "A full-stack social media app with explore feed, followers suggestions, likes, posts, and more.",
+    "tech": ["Next.js", "Prisma", "Clerk"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "link": "https://socially-hems.vercel.app",
+    "type": "Fullstack"
+  },
+]
