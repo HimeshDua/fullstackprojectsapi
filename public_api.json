@@ -1,6 +1,6 @@
 [
   {
-    "title": "GitHub Profile Assessment",
+    "title": "Developer Grades",
     "description": "Leverages GitHub activity for developer profile assessment, generating a skill grade and embeddable badges.",
     "tech": ["Next.js", "MongoDB", "Custom Auth"],
     "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
