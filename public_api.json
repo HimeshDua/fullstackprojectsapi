@@ -1,11 +1,5 @@
 [
-  {
-    "title": "Personal Portfolio Website",
-    "description": "A modern, responsive portfolio showcasing full-stack development expertise with clean design, optimized performance, and seamless user experience. Features project galleries, skill demonstrations, and professional contact integration.",
-    "tech": ["Next.js", "Tailwind CSS", "Vercel"],
-    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/portfolio.png",
-    "link": "https://himeshdua.vercel.app"
-  },
+
   {
     "title": "DevGrade - GitHub Skill Assessment Platform",
     "description": "Intelligent developer evaluation platform that analyzes GitHub activity to generate comprehensive skill assessments and hireability scores. Features embeddable React badges for portfolio integration and transparent, metrics-based grading system for enhanced recruitment processes.",
